@@ -11,5 +11,5 @@
 #'   \item{Afghanistan}{Nom du pays en anglais}
 #'   \item{Afghanistan.1}{Nom du pays en français}
 #' }
-#' @source \url{lien_vers_la_source}
+#' @source \url https://github.com/lisaSMAH/lisasmah/blob/master/data-raw/pays.csv
 "pays"
